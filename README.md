@@ -37,6 +37,9 @@ The **Dashboard Creation** phase involved building various visuals and writing D
 
 The dashboard is designed in line with Blinkit’s brand theme to provide a cohesive and professional look.
 
+![image](https://github.com/user-attachments/assets/3ed829a8-ac47-4b69-a230-885e041c0d5e)
+
+
 ## Key Insights
 1. **Total Sales:** Blinkit has generated $1.2 million in total sales over the years.
 2. **Total Items Sold:** Blinkit offers 8523 different types of items.
